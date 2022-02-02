@@ -13,7 +13,6 @@ a {text-decoration: none;}
 
 .bg {
   background-image: url(../img/bg.png);
-  background-size: 15px;
   background-position: center;
   width: 1280px;
   height: 720px;
